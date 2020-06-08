@@ -1,0 +1,25 @@
+{
+  "name": "wsl.test",
+  "version": "1.0.0",
+  "description": "This is nmy JAM!~",
+  "main": "index.js",
+  "scripts": {
+    "test": "xoxo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikrambox/wsl.test.git"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "my",
+    "JAMMM"
+  ],
+  "author": "Bikram rongpi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikrambox/wsl.test/issues"
+  },
+  "homepage": "https://github.com/bikrambox/wsl.test#readme"
+}
